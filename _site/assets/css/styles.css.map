@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		"body {\r\n    color: black;\r\n}\r\n\r\nh1{\r\n    color: blac;\r\n}\r\n\r\nheader{\r\n    background-color: blue;\r\n    text-align: center;\r\n    padding: 30px;\r\n    font-size: 22px;\r\n}\r\n\r\nnav{\r\n    background-color: #358597;\r\n}\r\n\r\nfooter{\r\n    background-color: #358597;\r\n}"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,IAAI,CAAC,EACD,KAAK,EAAE,KAAK,GACf;;AAED,AAAA,EAAE,CAAA,EACE,KAAK,EAAE,IAAI,GACd;;AAED,AAAA,MAAM,CAAA,EACF,gBAAgB,EAAE,IAAI,EACtB,UAAU,EAAE,MAAM,EAClB,OAAO,EAAE,IAAI,EACb,SAAS,EAAE,IAAI,GAClB;;AAED,AAAA,GAAG,CAAA,EACC,gBAAgB,EAAE,OAAO,GAC5B;;AAED,AAAA,MAAM,CAAA,EACF,gBAAgB,EAAE,OAAO,GAC5B"
+}
